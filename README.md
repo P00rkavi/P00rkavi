@@ -5,13 +5,13 @@
 
 🔭 Currently Working On
    Machine learning models for real-world challenges
-|Interactive data visualizations
-|DeFi analytics and beginner-friendly blockchain tools
+| Interactive data visualizations
+| DeFi analytics and beginner-friendly blockchain tools
 
 🌱 Currently Learning
    Advanced Python, Smart contracts
-|C++ and JavaScript basics
-|Blockchain fundamentals
+| C++ and JavaScript basics
+| Blockchain fundamentals
 
 🛠️ Skills
   Python Pandas NumPy Scikit-learn Matplotlib Seaborn SQL Git DeFi Basics
